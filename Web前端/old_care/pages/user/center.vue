@@ -4,7 +4,7 @@
     <navMenu width="100%"></navMenu>
 
     <el-container direction="horizontal">
-      <el-aside width="280px" height="100%">
+      <el-aside width="230px" height="100%">
         <sideBar class="menu" page-index="6" open-index="0" ></sideBar>
       </el-aside>
       <el-main>

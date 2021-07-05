@@ -4,7 +4,7 @@
     <navMenu width="100%"></navMenu>
 
     <el-container direction="horizontal" style="height: 673px; background-image: url(static/background.png);background-size: cover" >
-      <el-aside width="280px" height="100%">
+      <el-aside width="230px" height="100%" >
         <sideBar class="menu" page-index="7" open-index="0" style="height: 100%"></sideBar>
 
       </el-aside>
